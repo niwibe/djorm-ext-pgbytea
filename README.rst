@@ -7,10 +7,10 @@ for binaryfield nativelly.
 .. image:: https://travis-ci.org/niwibe/djorm-ext-pgbytea.png?branch=master
     :target: https://travis-ci.org/niwibe/djorm-ext-pgbytea
 
-.. image:: https://pypip.in/v/djorm-ext-pgbytea/badge.png
+.. image:: https://img.shields.io/pypi/v/djorm-ext-pgbytea.svg
     :target: https://crate.io/packages/djorm-ext-pgbytea
 
-.. image:: https://pypip.in/d/djorm-ext-pgbytea/badge.png
+.. image:: https://img.shields.io/pypi/dm/djorm-ext-pgbytea.svg
     :target: https://crate.io/packages/djorm-ext-pgbytea
 
 
